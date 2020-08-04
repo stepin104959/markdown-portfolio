@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+### Subjects currently taken :
+* Advanced Communication Systems
+* Nanoelectronics
+* Departmental Elective
+  * Computer Vision
+* Non - Departmental Elective
+  * Soft Computing
